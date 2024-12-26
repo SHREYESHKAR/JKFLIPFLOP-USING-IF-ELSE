@@ -65,7 +65,8 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 ## TIMING DIGRAMS
 
 
-![WhatsApp Image 2024-12-19 at 2 28 36 PM](https://github.com/user-attachments/assets/b59f426e-f824-4dc7-afa2-3fc92afc5e13)
+![WhatsApp Image 2024-12-26 at 7 24 46 PM](https://github.com/user-attachments/assets/d2c5e9c6-0006-45c0-aec0-b7b182a52344)
+
 
 
 
